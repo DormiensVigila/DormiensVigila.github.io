@@ -130,5 +130,6 @@ code {
     min-width: 233px;
   }
 
- }
+ footer {
+   position:absolute;}
 
