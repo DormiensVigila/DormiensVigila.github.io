@@ -124,14 +124,14 @@ code {
     margin-left: -10px;
   }
 
+.img {
+width: 50%;
+height:50%;
+margin-left: auto;
+margin-right: auto;
+display: block;
+  }
 
-
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-} 
 
 
 
