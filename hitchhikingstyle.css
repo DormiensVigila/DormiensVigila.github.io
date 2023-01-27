@@ -21,12 +21,14 @@ font-size: 15px;
   border-color: gray ;
 }
 
+
+
 header {
   color: black;
   margin: 10px;
   text-align: center;
   font-size: 1.8em;
-  font-weight: thin;
+  font-weight: bold;
 }
 
 #main-doc header {
