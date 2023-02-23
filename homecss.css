@@ -21,7 +21,7 @@ text-align:left;
 
 img {
   display: block;
-  margin-left: auto;
+  margin-left: none;
   margin-right: auto;
   width: 50%;
 }
