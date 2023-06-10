@@ -23,7 +23,8 @@ body {
 }
 
 .gallery img {
-    width: 100%;
+    max-width: 50%;  /* New */
+    max-height: 50%; /* New */
     height: auto;
     transition: transform .5s ease;
     cursor: pointer;
